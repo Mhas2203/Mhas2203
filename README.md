@@ -1,4 +1,4 @@
-# Hello folks, I'm Musa! 👋
+# Hello folks 👋, I'm Musa!
 
 I'm a computer science student with a keen interest in software engineering and web development. I'm passionate about creating innovative solutions that enhance the lives of thousands of people. Whether it's through designing user-friendly interfaces or developing efficient software, I strive to make a positive impact by bringing never-seen-before ideas to life.
 
