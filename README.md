@@ -7,7 +7,7 @@ I'm a computer science student with a keen interest in software engineering and 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow%20me-181717?logo=github&logoColor=white)](https://github.com/mhas2203)
 
 ## Things you should know
-- 🔭 Currently working on: Very fascinating Python projects.
+- 🔭 Currently working on: Cryptocurrency News Website.
 - 🌱 Getting better at: Python, Data structure & Algorithms
 - 🤔 Exploring: Java, React.js, Node.js SQL
 
