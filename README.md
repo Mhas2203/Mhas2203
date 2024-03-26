@@ -16,3 +16,5 @@ I'm a computer science student with a keen interest in software engineering and 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
 ![HTML/CSS Badge](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat)
+![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
