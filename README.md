@@ -8,7 +8,7 @@ I'm a computer science student with a keen interest in software engineering and 
 
 ## Things you should know
 - 🔭 Currently working on: Cryptocurrency News Website.
-- 🌱 Getting better at: Python, Data structure & Algorithms
+- 🌱 Getting better at: Data structure & Algorithms
 - 🤔 Exploring: Java, React.js, Node.js SQL
 
 ## Tech Stack
