@@ -5,7 +5,7 @@ I'm a computer science student with a keen interest in software engineering and 
 ## 📫 Reach me out!!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/musah)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Follow%20me-181717?logo=github&logoColor=white)](https://github.com/mhas2203)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhas2203&show_icons=true&theme=transparent)
+![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhas2203&show_icons=true&theme=transparent)
 
 ## Things you should know
 - 🔭 Currently working on: Cryptocurrency News Website.
