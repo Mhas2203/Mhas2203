@@ -21,5 +21,6 @@ I'm a computer science student with a keen interest in software engineering and 
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
