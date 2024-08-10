@@ -12,9 +12,14 @@ I'm a computer science student with a keen interest in software engineering and 
 - 🤔 Exploring: Java, SQL
 
 ## Tech Stack
-![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
 ![HTML/CSS Badge](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
+![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
 ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+
