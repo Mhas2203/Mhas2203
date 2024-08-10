@@ -9,7 +9,7 @@ I'm a computer science student with a keen interest in software engineering and 
 ## Things you should know
 - 🔭 Currently working on: Cryptocurrency News Website.
 - 🌱 Getting better at: Data structure & Algorithms
-- 🤔 Exploring: Java, React.js, Node.js SQL
+- 🤔 Exploring: Java, SQL
 
 ## Tech Stack
 ![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
